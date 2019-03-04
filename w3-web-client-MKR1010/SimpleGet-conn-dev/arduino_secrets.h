@@ -1,3 +1,3 @@
-#define SECRET_SSID "TPGPKG"
-#define SECRET_PASS "one1one1"
+#define SECRET_SSID ""
+#define SECRET_PASS ""
 
