@@ -1,0 +1,524 @@
+[
+  {
+    "transactionID": 5681,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:51.000Z"
+  },
+  {
+    "transactionID": 5682,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:51.000Z"
+  },
+  {
+    "transactionID": 5683,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:52.000Z"
+  },
+  {
+    "transactionID": 5684,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:53.000Z"
+  },
+  {
+    "transactionID": 5685,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:54.000Z"
+  },
+  {
+    "transactionID": 5686,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:55.000Z"
+  },
+  {
+    "transactionID": 5687,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:56.000Z"
+  },
+  {
+    "transactionID": 5688,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:57.000Z"
+  },
+  {
+    "transactionID": 5689,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:58.000Z"
+  },
+  {
+    "transactionID": 5690,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:50:59.000Z"
+  },
+  {
+    "transactionID": 5691,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:51:00.000Z"
+  },
+  {
+    "transactionID": 5692,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:51:01.000Z"
+  },
+  {
+    "transactionID": 5693,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:52:02.000Z"
+  },
+  {
+    "transactionID": 5694,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:52:02.000Z"
+  },
+  {
+    "transactionID": 5695,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:52:03.000Z"
+  },
+  {
+    "transactionID": 5698,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "hello, world",
+    "timestamp": "2019-02-24T21:54:23.000Z"
+  },
+  {
+    "transactionID": 5699,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:55:04.000Z"
+  },
+  {
+    "transactionID": 5700,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:55:36.000Z"
+  },
+  {
+    "transactionID": 5701,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:55:37.000Z"
+  },
+  {
+    "transactionID": 5702,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:55:38.000Z"
+  },
+  {
+    "transactionID": 5703,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:55:39.000Z"
+  },
+  {
+    "transactionID": 5704,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:55:40.000Z"
+  },
+  {
+    "transactionID": 5705,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T21:55:41.000Z"
+  },
+  {
+    "transactionID": 5733,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T22:02:11.000Z"
+  },
+  {
+    "transactionID": 5734,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": latest_pot}",
+    "timestamp": "2019-02-24T22:02:12.000Z"
+  },
+  {
+    "transactionID": 5736,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": [latest_pot]}",
+    "timestamp": "2019-02-24T22:04:18.000Z"
+  },
+  {
+    "transactionID": 5737,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": latest_temp,\"light\": latest_light,\"pot-value\": [latest_pot]}",
+    "timestamp": "2019-02-24T22:04:19.000Z"
+  },
+  {
+    "transactionID": 5738,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 23.548387096774192,\"light\": 0,\"pot-value\": 34.252199413489734}",
+    "timestamp": "2019-02-24T22:06:57.000Z"
+  },
+  {
+    "transactionID": 5739,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 23.225806451612897,\"light\": 9.775171065493646,\"pot-value\": 34.252199413489734}",
+    "timestamp": "2019-02-24T22:06:58.000Z"
+  },
+  {
+    "transactionID": 8523,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.51612903225806,\"light\": 9.775171065493646,\"pot-value\": 0.6256109481915934}",
+    "timestamp": "2019-02-25T23:03:05.000Z"
+  },
+  {
+    "transactionID": 8524,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 0.5083088954056696}",
+    "timestamp": "2019-02-25T23:03:05.000Z"
+  },
+  {
+    "transactionID": 8525,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 1.4467253176930597}",
+    "timestamp": "2019-02-25T23:03:06.000Z"
+  },
+  {
+    "transactionID": 8526,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 3.4799608993157385}",
+    "timestamp": "2019-02-25T23:03:07.000Z"
+  },
+  {
+    "transactionID": 8527,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 28.11339198435973}",
+    "timestamp": "2019-02-25T23:03:08.000Z"
+  },
+  {
+    "transactionID": 8528,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:09.000Z"
+  },
+  {
+    "transactionID": 8529,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 39.80449657869013}",
+    "timestamp": "2019-02-25T23:03:10.000Z"
+  },
+  {
+    "transactionID": 8530,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 3.9882697947214076}",
+    "timestamp": "2019-02-25T23:03:11.000Z"
+  },
+  {
+    "transactionID": 8531,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 2.8152492668621703}",
+    "timestamp": "2019-02-25T23:03:12.000Z"
+  },
+  {
+    "transactionID": 8532,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 0.5083088954056696}",
+    "timestamp": "2019-02-25T23:03:13.000Z"
+  },
+  {
+    "transactionID": 8533,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 5.434995112414467}",
+    "timestamp": "2019-02-25T23:03:14.000Z"
+  },
+  {
+    "transactionID": 8534,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 23.421309872922777}",
+    "timestamp": "2019-02-25T23:03:15.000Z"
+  },
+  {
+    "transactionID": 8535,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:16.000Z"
+  },
+  {
+    "transactionID": 8536,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:17.000Z"
+  },
+  {
+    "transactionID": 8537,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 39.960899315738025}",
+    "timestamp": "2019-02-25T23:03:18.000Z"
+  },
+  {
+    "transactionID": 8538,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:19.000Z"
+  },
+  {
+    "transactionID": 8539,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:20.000Z"
+  },
+  {
+    "transactionID": 8540,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:21.000Z"
+  },
+  {
+    "transactionID": 8541,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 0,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:22.000Z"
+  },
+  {
+    "transactionID": 8542,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 0,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:23.000Z"
+  },
+  {
+    "transactionID": 8543,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:24.000Z"
+  },
+  {
+    "transactionID": 8544,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:25.000Z"
+  },
+  {
+    "transactionID": 8545,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:26.000Z"
+  },
+  {
+    "transactionID": 8546,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:27.000Z"
+  },
+  {
+    "transactionID": 8547,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:28.000Z"
+  },
+  {
+    "transactionID": 8548,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.51612903225806,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:29.000Z"
+  },
+  {
+    "transactionID": 8549,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 25.806451612903224}",
+    "timestamp": "2019-02-25T23:03:30.000Z"
+  },
+  {
+    "transactionID": 8550,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 3.2062561094819158}",
+    "timestamp": "2019-02-25T23:03:31.000Z"
+  },
+  {
+    "transactionID": 8551,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 3.7536656891495603}",
+    "timestamp": "2019-02-25T23:03:32.000Z"
+  },
+  {
+    "transactionID": 8552,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 4.301075268817204}",
+    "timestamp": "2019-02-25T23:03:33.000Z"
+  },
+  {
+    "transactionID": 8553,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 7.429130009775172}",
+    "timestamp": "2019-02-25T23:03:34.000Z"
+  },
+  {
+    "transactionID": 8554,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 18.963831867057674}",
+    "timestamp": "2019-02-25T23:03:36.000Z"
+  },
+  {
+    "transactionID": 8555,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 27.52688172043011}",
+    "timestamp": "2019-02-25T23:03:36.000Z"
+  },
+  {
+    "transactionID": 8556,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 31.397849462365592}",
+    "timestamp": "2019-02-25T23:03:37.000Z"
+  },
+  {
+    "transactionID": 8557,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:38.000Z"
+  },
+  {
+    "transactionID": 8558,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 40}",
+    "timestamp": "2019-02-25T23:03:39.000Z"
+  },
+  {
+    "transactionID": 8559,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 16.774193548387096}",
+    "timestamp": "2019-02-25T23:03:40.000Z"
+  },
+  {
+    "transactionID": 8560,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.838709677419345,\"light\": 9.775171065493646,\"pot-value\": 16.617790811339198}",
+    "timestamp": "2019-02-25T23:03:41.000Z"
+  },
+  {
+    "transactionID": 10286,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 0,\"light\": 0,\"pot-value\": 0}",
+    "timestamp": "2019-02-26T02:45:58.000Z"
+  },
+  {
+    "transactionID": 10292,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 26.129032258064512,\"light\": 19.550342130987293,\"pot-value\": 16.187683284457478}",
+    "timestamp": "2019-02-26T02:47:50.000Z"
+  },
+  {
+    "transactionID": 13680,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 24.193548387096765,\"light\": 19.550342130987293,\"pot-value\": 5.826001955034213}",
+    "timestamp": "2019-02-26T14:21:55.000Z"
+  },
+  {
+    "transactionID": 13934,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 25.806451612903214,\"light\": 0,\"pot-value\": 5.865102639296188}",
+    "timestamp": "2019-02-26T14:31:55.000Z"
+  },
+  {
+    "transactionID": 14026,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 26.774193548387093,\"light\": 9.775171065493646,\"pot-value\": 5.865102639296188}",
+    "timestamp": "2019-02-26T14:41:55.000Z"
+  },
+  {
+    "transactionID": 14056,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 27.419354838709676,\"light\": 19.550342130987293,\"pot-value\": 28.856304985337246}",
+    "timestamp": "2019-02-26T14:51:55.000Z"
+  },
+  {
+    "transactionID": 14089,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 27.74193548387097,\"light\": 19.550342130987293,\"pot-value\": 28.504398826979475}",
+    "timestamp": "2019-02-26T15:01:55.000Z"
+  },
+  {
+    "transactionID": 14119,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 27.74193548387097,\"light\": 9.775171065493646,\"pot-value\": 28.504398826979475}",
+    "timestamp": "2019-02-26T15:11:55.000Z"
+  },
+  {
+    "transactionID": 14384,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.064516129032256,\"light\": 9.775171065493646,\"pot-value\": 28.504398826979475}",
+    "timestamp": "2019-02-26T15:21:55.000Z"
+  },
+  {
+    "transactionID": 14921,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.064516129032256,\"light\": 19.550342130987293,\"pot-value\": 31.63245356793744}",
+    "timestamp": "2019-02-26T15:39:38.000Z"
+  },
+  {
+    "transactionID": 15085,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.387096774193544,\"light\": 9.775171065493646,\"pot-value\": 29.48191593352884}",
+    "timestamp": "2019-02-26T15:44:37.000Z"
+  },
+  {
+    "transactionID": 15237,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.387096774193544,\"light\": 19.550342130987293,\"pot-value\": 29.48191593352884}",
+    "timestamp": "2019-02-26T15:49:37.000Z"
+  },
+  {
+    "transactionID": 15369,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.387096774193544,\"light\": 19.550342130987293,\"pot-value\": 29.48191593352884}",
+    "timestamp": "2019-02-26T15:54:37.000Z"
+  },
+  {
+    "transactionID": 15521,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.387096774193544,\"light\": 19.550342130987293,\"pot-value\": 29.521016617790814}",
+    "timestamp": "2019-02-26T15:59:37.000Z"
+  },
+  {
+    "transactionID": 15793,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.387096774193544,\"light\": 19.550342130987293,\"pot-value\": 38.0058651026393}",
+    "timestamp": "2019-02-26T16:08:38.000Z"
+  },
+  {
+    "transactionID": 15932,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.387096774193544,\"light\": 9.775171065493646,\"pot-value\": 38.0058651026393}",
+    "timestamp": "2019-02-26T16:13:37.000Z"
+  },
+  {
+    "transactionID": 15934,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.387096774193544,\"light\": 19.550342130987293,\"pot-value\": 38.0058651026393}",
+    "timestamp": "2019-02-26T16:18:37.000Z"
+  },
+  {
+    "transactionID": 15936,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.387096774193544,\"light\": 19.550342130987293,\"pot-value\": 38.04496578690127}",
+    "timestamp": "2019-02-26T16:23:37.000Z"
+  },
+  {
+    "transactionID": 15970,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 28.70967741935484,\"light\": 420.33235581622677,\"pot-value\": 0.19550342130987292}",
+    "timestamp": "2019-02-26T17:07:08.000Z"
+  },
+  {
+    "transactionID": 15974,
+    "macAddress": "b8:27:eb:41:e6:15",
+    "data": "{\"temperature\": 29.999999999999993,\"light\": 391.00684261974584,\"pot-value\": 2.9716520039100685}",
+    "timestamp": "2019-02-26T17:12:07.000Z"
+  }
+]
